@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Infinite Runner Ultimate 3D/Scenes/Desert Ruins Sample Game.unity
+  isLoaded: 1
+  isActive: 1
